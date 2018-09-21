@@ -3,6 +3,9 @@ Animated Sales Pitch for https://cib.societegenerale.com/en/our-offering/global-
 
 # Sales-Pitch-Prime-Low-Touch
 
+## All tasks and project breakdown
+https://github.com/kurtzace/Sales-Sg-Prime-Services/projects
+
 ## Essential courses
 
 https://app.pluralsight.com/library/courses/unity-fundamentals
