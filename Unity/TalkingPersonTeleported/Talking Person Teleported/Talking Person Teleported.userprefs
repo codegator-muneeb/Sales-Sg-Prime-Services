@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Views\MainView.xml">
+    <Files>
+      <File FileName="Assets\Views\MainView.xml" Line="4" Column="36" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="5" Column="2" />
+      <File FileName="Assets\Views\MainMenuScene.xml" Line="7" Column="11" />
+      <File FileName="Assets\Scripts\MainMenuScene.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

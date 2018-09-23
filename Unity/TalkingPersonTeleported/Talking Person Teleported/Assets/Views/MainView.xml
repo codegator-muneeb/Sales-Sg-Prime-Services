@@ -1,0 +1,7 @@
+<MainMenu>
+    <Group Spacing="10px">
+        <Button Text="Home" />
+        <Button Text="Next &gt;&gt;" />
+        <Button Text="&lt;&lt; Back" />
+    </Group>
+</MainMenu>

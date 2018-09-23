@@ -45,3 +45,11 @@ https://www.turbosquid.com/3d-model/free/office-category/blend?synonym=office
 or https://free3d.com/3d-models/furniture
 
 7. https://free3d.com/3d-model/futuristic-transport-shuttle-rigged--18765.html
+
+
+## presentation via
+https://assetstore.unity.com/packages/tools/gui/marklight-unity-presentation-framework-37466
+
+http://webcache.googleusercontent.com/search?q=cache:Ue1JdmNJ1jQJ:www.marklightforunity.com/docs/tutorials/gettingstarted.html+&cd=4&hl=en&ct=clnk&gl=in&client=firefox-b-ab
+
+https://github.com/ex-makina/marklight
